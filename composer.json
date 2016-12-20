@@ -1,6 +1,6 @@
 {
-    "name": "barryvdh/laravel-dompdf",
-    "description": "A DOMPDF Wrapper for Laravel",
+    "name": "angrycolony/laravel-dompdf",
+    "description": "Form of A DOMPDF Wrapper for Laravel",
     "license": "MIT",
     "keywords": ["laravel", "dompdf", "pdf"],
     "authors": [
