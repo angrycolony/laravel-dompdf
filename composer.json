@@ -25,5 +25,24 @@
             "dev-master": "0.7-dev"
         }
     },
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+    "repositories": [
+        {
+            "type": "package",
+            "package": {
+                "name": "angrycolony/dompdf",
+                "version": "0.7",
+                "source": {
+                    "url": "https://github.com/angrycolony/dompdf.git",
+                    "type": "git",
+                    "reference": "master"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Angrycolony\\": "src"
+                    }
+                }
+            }
+        }
+    ]
 }
