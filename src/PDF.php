@@ -1,8 +1,8 @@
 <?php
 namespace Angrycolony\DomPDF;
 
-use Dompdf\Dompdf;
-use Dompdf\Options;
+use Angrycolony\Dompdf;
+use Angrycolony\Options;
 use Exception;
 use Illuminate\Filesystem\Filesystem;
 use Illuminate\Contracts\View\Factory as ViewFactory;
