@@ -1,6 +1,6 @@
 {
     "name": "angrycolony/laravel-dompdf",
-    "description": "Form of A DOMPDF Wrapper for Laravel",
+    "description": "Fork of A DOMPDF Wrapper for Laravel",
     "license": "MIT",
     "keywords": ["laravel", "dompdf", "pdf"],
     "authors": [
@@ -12,7 +12,7 @@
     "require": {
         "php": ">=5.5.9",
         "illuminate/support": "5.1.x|5.2.x|5.3.x",
-        "angrycolony/dompdf": "^0.7"
+        "angrycolony/dompdf": "^0.8"
     },
 
     "autoload": {
@@ -22,7 +22,7 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "0.7-dev"
+            "dev-master": "0.8-dev"
         }
     },
     "minimum-stability": "dev",
@@ -31,7 +31,7 @@
             "type": "package",
             "package": {
                 "name": "angrycolony/dompdf",
-                "version": "0.7",
+                "version": "0.8",
                 "source": {
                     "url": "https://github.com/angrycolony/dompdf.git",
                     "type": "git",

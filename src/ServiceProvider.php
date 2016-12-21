@@ -1,7 +1,7 @@
 <?php
 namespace Angrycolony\DomPDF;
 
-use Dompdf\Dompdf;
+use Angrycolony\Dompdf;
 use Exception;
 use Illuminate\Support\ServiceProvider as IlluminateServiceProvider;
 
