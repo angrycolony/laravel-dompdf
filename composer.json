@@ -40,7 +40,8 @@
                 "autoload": {
                     "psr-4": {
                         "Angrycolony\\": "src"
-                    }
+                    },
+                    "classmap" : ["lib/"]
                 }
             }
         }
